@@ -12,6 +12,6 @@ for li in Lists:
     listOfJobs.append(text)
 print("list of jobs under - 'Aerospace & Aviation'")
 print(listOfJobs)
-
+driver.close()
 
 
